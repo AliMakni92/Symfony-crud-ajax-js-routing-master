@@ -9,7 +9,7 @@ Project to practise with ajax in Symfony 3
 - Clone the repository from github
 
 ```
-$ git clone git@github.com:n0ni0/symfony3-ajax-crud.git <your-path-to-install>
+$ git clone https://github.com/AliMakni92/Symfony-crud-ajax-js-routing-master.git <your-path-to-install>
 $ cd <your-path-to-install>
 ```
 
